@@ -32,13 +32,6 @@ class Rayane:
         self.looking_for = "Alternance sept. 2026 — IA / Vision / Développement"
         self.languages   = ["🇫🇷 Français", "🇬🇧 English"]
         self.fun_fact    = "Fan de football ⚽ et de tech depuis toujours 🚀"
-
-    def current_projects(self):
-        return [
-            "🔬 Recherche : Test-Time Training + SimCLR/DINO/MAE",
-            "📦 Column-store compression (VParC) en Python",
-            "🛒 API Spring Boot — Produits équitables",
-        ]
 ```
 
 ---
