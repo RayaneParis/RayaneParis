@@ -1,125 +1,144 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4AB3ED&center=true&vCenter=true&width=600&lines=👋+Bienvenue+sur+mon+GitHub+!;Je+suis+Rayane+KHATIM;Développeur+Fullstack+%F0%9F%92%BB;Passionné+de+Tech+et+d%27Innovation+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Étudiant+en+Master+Informatique+%40+Paris;Spécialisé+en+Vision+et+Machine+intelligente;Passionné+par+l%27intelligence+artificielle+et+l%27Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rayane%20KHATIM&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Vision%20%7C%20Machine%20Learning%20%7C%20Fullstack&descAlignY=58&descSize=18)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=🧠+M1+Vision+%26+Machine+Intelligente+%40+Université+Paris;👁️+Computer+Vision+%7C+Deep+Learning+%7C+Fullstack;⚡+Toujours+prêt+à+relever+les+défis;🔍+En+recherche+d%27alternance+2025)](https://git.io/typing-svg)
+ 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RayaneUPEC&label=Profile+views&color=7c3aed&style=flat-square" />
+  <a href="https://github.com/RayaneUPEC?tab=followers"><img src="https://img.shields.io/github/followers/RayaneUPEC?label=Followers&style=flat-square&color=06b6d4" /></a>
+  <img src="https://img.shields.io/badge/Status-En%20alternance-a855f7?style=flat-square&logo=statuspage&logoColor=white" />
 </p>
+</div>
+---
+ 
+## ◈ À propos de moi
+ 
+```python
+class Rayane:
+    def __init__(self):
+        self.name        = "Rayane KHATIM"
+        self.degree      = "M1 Vision et Machine Intelligente — Université Paris Cité"
+        self.focus       = ["Computer Vision", "Deep Learning", "Fullstack Dev"]
+        self.learning    = ["Test-Time Training", "Self-Supervised Learning", "LLMs"]
+        self.looking_for = "Alternance 2025 — IA / Vision / Développement"
+        self.languages   = ["🇫🇷 Français", "🇬🇧 English"]
+        self.fun_fact    = "Fan de football ⚽ et de tech depuis toujours 🚀"
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RayaneUPEC&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/RayaneUPEC?tab=followers"><img src="https://img.shields.io/github/followers/RayaneUPEC?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /></a>
-  <a href="https://github.com/RayaneUPEC"><img src="https://img.shields.io/badge/Edit%20Profile-Click%20Here-blue?style=flat-square&logo=github" alt="Edit Profile" /></a>
+```
+ 
+---
+ 
+## ◈ Stack Technique
+ 
+### 🧠 Intelligence Artificielle & Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
-
-
-## 🙋‍♂️ À propos de moi
-
-🎓 Étudiant en **1ère année de Master Vision** à **Université Paris**, spécialisé en **Vision et Machine intelligente**.  
-💡 Passionné par l **intelligence artificielle**, la **robotique**, et l'**automatisation**.  
-🔍 
-
-
-## 🚀 Stack Visuelle Complète
-
-<h2 align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=435&lines=Stack+Complet+et+Maîtrisé+%F0%9F%92%BB" alt="Typing SVG" /> 🚀</h2>
-
-### 🧠 **Back-End**
-<p align="center">
+### ⚙️ Data Engineering & Big Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+### 💻 Back-End
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,php,cpp,spring,nodejs" />
 </p>
-
-### 🎨 **Front-End**
-<p align="center">
+### 🎨 Front-End
+<p>
   <img src="https://skillicons.dev/icons?i=js,react,html,css" />
 </p>
-
-### 🗄️ **Bases de Données & Broker**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+### 🗄️ Bases de Données
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" />
 </p>
-
-### 🐳 **Conteneurisation & OS**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux" />
+### 🐳 DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-### 🔧 **Outils & Versioning**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
-</p>
-
-
-## 🛠️ Compétences détaillées
-
+---
+ 
+## ◈ Compétences détaillées
+ 
 ```javascript
 const rayane = {
-  languages: ["Python", "Java", "PHP", "SQL", "C/C++", "JavaScript", "HTML", "CSS"],
-  backEnd: {
-    frameworks: ["Spring Boot", "Maven", "CMake"],
-    databases: ["MySQL", "MariaDB", "MongoDB", "Redis", "PL/SQL"],
-    messageBroker: ["Kafka", "Zookeeper"],
-    api: ["API REST"],
-    tests: ["JUnit", "PyUnit"]
+  ai_vision: {
+    frameworks  : ["PyTorch", "TensorFlow", "scikit-learn"],
+    cv_libs     : ["OpenCV", "torchvision"],
+    models      : ["CNNs (AlexNet→MobileNet)", "ViT", "SimCLR", "DINO", "MAE"],
+    tasks       : ["Classification", "Segmentation", "Keypoint Detection", "TTT"],
+    nlp_ir      : ["BM25+", "Sentence-Transformers", "TF-IDF", "RRF Fusion"],
   },
-  frontEnd: {
-    frameworks: ["React"],
-    integration: ["UI dynamiques et structurées"]
+  data_engineering: {
+    tools       : ["PySpark", "Apache Kafka", "Zookeeper"],
+    storage     : ["Column-store", "Data Warehouse", "Bayesian Networks"],
+    formats     : ["Parquet", "CSV", "JSON"],
   },
-  devOps: ["Docker", "Docker Swarm", "Compose", "VirtualBox"],
-  versionControl: ["Git", "GitHub"],
-  os: ["Linux (Debian, Ubuntu)", "macOS", "Windows"],
-  tools: ["VS Code", "Figma"],
-  currentFocus: "Développement d'applications innovantes et accessibles",
-  funFact: "Fan de football ⚽ et passionné d'interfaces modernes !"
+  languages    : ["Python", "Java", "PHP", "SQL", "C/C++", "JavaScript"],
+  backEnd      : {
+    frameworks : ["Spring Boot", "Django REST", "Node.js"],
+    auth       : ["JWT", "OAuth2"],
+    api        : ["REST", "Swagger"],
+    tests      : ["JUnit", "PyUnit"],
+  },
+  frontEnd     : { frameworks: ["React"], styling: ["TailwindCSS", "CSS3"] },
+  databases    : ["MySQL", "MariaDB", "MongoDB", "Redis", "PostgreSQL", "PL/SQL"],
+  devOps       : ["Docker", "Docker Swarm", "Compose", "VirtualBox", "Linux"],
+  tools        : ["VS Code", "Git", "GitHub",, "Jupyter", "Colab"],
 };
 ```
 
-
-## 🌟 Projets Majeurs
-
-### 🚕 **Flexitrip — Transport multimodal pour PMR**
-> **React.js, Node.js, Firebase, MongoDB, Swagger**  
-> Solution innovante de transport pour personnes à mobilité réduite, avec **IA pour reconnaissance documentaire**.  
-> 📱 App Mobile & Web | 🔗 API REST | 🧠 AI intégrée.
-
-
-### 🌍 **Tableau de bord Pollution — Analyse environnementale**
-> **React, TailwindCSS**  
-> Dashboard interactif pour visualiser les données sur la **pollution**, météo, et vents.  
-> 📊 Data Viz | API | UX/UI moderne.
-
-
-## 📊 Statistiques GitHub
-
+---
+ 
+## ◈ GitHub Stats
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayaneParis&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RayaneParis&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneParis&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RayaneParis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RayaneParis&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=a855f7&currStreakLabel=c9d1d9" />
 </p>
-
-
-## 🤝 Me Contacter
-
 <p align="center">
-  <a href="mailto:rayane.khatim@etu.u-pec.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rayane-khatim-27b3022a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/RayaneUPEC"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneParis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
 </p>
-
-
-## 💡 Ma vision et mes valeurs
-
-> *"La technologie ne résout pas seulement des problèmes, elle crée des opportunités pour améliorer le monde."* 🌍✨  
-> *"Créer des solutions inclusives, accessibles et performantes. Toujours prêt à innover, apprendre et collaborer."* 🚀💻  
-
-
+---
+ 
+## ◈ En recherche d'alternance
+ 
+<div align="center">
+> 🎯 **Disponible pour une alternance dès septembre 2026**  
+> Domaines : **IA · Computer Vision · ML**  
+> Rythme : 3 jours université / 2 jours entreprise (S1) et 90% en entrepprise (S2) · Île-de-France & remote
+ 
+</div>
+---
+ 
+## ◈ Me contacter
+ 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400px" />
+  <a href="mailto:rayane.khatim@etu.u-pec.fr">
+    <img src="https://img.shields.io/badge/Email-rayane.khatim%40etu.u-paris.fr-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rayane-khatim-27b3022a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rayane%20KHATIM-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RayaneParis">
+    <img src="https://img.shields.io/badge/GitHub-RayaneUPEC-c9d1d9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/🔝%20Back%20to%20Top-blue?style=for-the-badge" alt="Back to top"></a>
-</p>
+---
+ 
+<div align="center">
+*"La technologie ne résout pas seulement des problèmes — elle crée des opportunités pour améliorer le monde."* ✨
+ 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+ 
+</div>
 
